@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1587562509 source:c:\users\petruandreirazvan\desktop\tema2labpoo\main.cpp
+	<iostream>
+	"Graf_neorientat.h"
+	"Exceptiemuchii.h"
+
+1587502918 c:\users\petruandreirazvan\desktop\tema2labpoo\include\matrice.h
+	<iostream>
+
+1587559342 c:\users\petruandreirazvan\desktop\tema2labpoo\include\vector.h
+	<iostream>
+
+1587501559 c:\users\petruandreirazvan\desktop\tema2labpoo\include\lista.h
+	<iostream>
+	"Vector.h"
+
+1587497105 c:\users\petruandreirazvan\desktop\tema2labpoo\include\graf.h
+	<iostream>
+
+1587496974 source:c:\users\petruandreirazvan\desktop\tema2labpoo\src\graf.cpp
+	"Graf.h"
+
+1587501559 source:c:\users\petruandreirazvan\desktop\tema2labpoo\src\lista.cpp
+	"Lista.h"
+
+1587559342 source:c:\users\petruandreirazvan\desktop\tema2labpoo\src\vector.cpp
+	"Vector.h"
+
+1587503176 source:c:\users\petruandreirazvan\desktop\tema2labpoo\src\matrice.cpp
+	"Matrice.h"
+
+1587562509 source:c:\users\petruandreirazvan\desktop\tema2labpoo\src\graf_neorientat.cpp
+	"Graf_neorientat.h"
+	"Exceptiemuchii.h"
+
+1587560363 c:\users\petruandreirazvan\desktop\tema2labpoo\include\graf_neorientat.h
+	<iostream>
+	<vector>
+	"Lista.h"
+	"Graf.h"
+
+1587561724 source:c:\users\petruandreirazvan\desktop\tema2labpoo\src\graf_orientat.cpp
+	"Graf_orientat.h"
+
+1587557180 c:\users\petruandreirazvan\desktop\tema2labpoo\include\graf_orientat.h
+	<iostream>
+	<vector>
+	"Matrice.h"
+	"Graf.h"
+
+1587562127 source:c:\users\petruandreirazvan\desktop\tema2labpoo\src\exceptiemuchii.cpp
+	"Exceptiemuchii.h"
+
+1587561774 c:\users\petruandreirazvan\desktop\tema2labpoo\include\exceptiemuchii.h
+	<exception>
+
